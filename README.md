@@ -12,6 +12,7 @@ Next suggested steps:
 - Once a request is approved or declined, send the notification to the requester.
 
 This is a [Meteor.js](https://meteor.com/) project that uses MongoDB, TailwindCSS, and Flowbite. The live demo is deployed to [Meteor Cloud](https://meteor.com/cloud). Check it out at [workbreakapp.meteorapp.com](https://workbreakapp.meteorapp.com).
+You can sign in with the email 'fred@meteor.com' and password: 'abc123'.
 
 It also includes:
 
